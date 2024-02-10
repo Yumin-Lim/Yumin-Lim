@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="YOUR_IMAGE_URL" width="100" height="100" alt="Profile Picture" style="margin-right: 10px;">
+  <img src="https://github.com/GRspot/GRspot/assets/97876054/1564dae4-dee8-4ec4-8378-edb0e872a2ae" width="100" height="100" alt="WME4" style="margin-right: 10px;">
   <div>Hi 👋, I'm Jupiter</div>
 </div>
 
