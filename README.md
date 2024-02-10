@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/GRspot/GRspot/assets/97876054/1564dae4-dee8-4ec4-8378-edb0e872a2ae" width="100" height="100" alt="WME4" style="margin-right: 10px;">
+  <img src="https://github.com/Yumin-Lim/Yumin-Lim/assets/97876054/5665bae4-6bf3-41d3-a0f7-0e4f6e8f9cc8" width="100" height="100" alt="WME4" style="margin-right: 10px;">
   <div>Hi 👋, I'm Jupiter</div>
 </div>
 
