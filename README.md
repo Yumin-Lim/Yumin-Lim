@@ -1,16 +1,16 @@
-### Hi there 👋
+<div style="display: flex; align-items: center;">
+  <img src="YOUR_IMAGE_URL" width="100" height="100" alt="Profile Picture" style="margin-right: 10px;">
+  <div>Hi 👋, I'm Jupiter</div>
+</div>
 
-<!--
-**Yumin-Lim/Yumin-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🌱 I’m currently learning Godot Engine and AWS</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRspot" alt="Top Langs">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=GRspot&show_icons=true&theme=default" alt="GitHub Stats">
+  </a>
+</div>
