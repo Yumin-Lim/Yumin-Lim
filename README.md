@@ -6,10 +6,5 @@
 
 <p>🌱 I’m currently learning Godot Engine and AWS</p>
 
-<!-- GitHub Stats -->
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumin-Lim)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yumin-Lim&show_icons=true&theme=default" alt="GitHub Stats">
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumin-Lim)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumin-Lim)](https://github.com/anuraghazra/github-readme-stats)
