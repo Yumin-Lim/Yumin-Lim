@@ -8,10 +8,7 @@
 
 <!-- GitHub Stats -->
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumin-Limalt="Top Langs">
-
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumin-Lim)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Yumin-Lim&show_icons=true&theme=default" alt="GitHub Stats">
   </a>
